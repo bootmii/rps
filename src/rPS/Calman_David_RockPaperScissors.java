@@ -2,7 +2,7 @@ package rPS;
 
 import java.util.*;
 
-public class RockPaperScissors {
+public class Calman_David_RockPaperScissors {
 	public static Scanner stdin = new Scanner(System.in);
 	public static Random r = new Random();
 
