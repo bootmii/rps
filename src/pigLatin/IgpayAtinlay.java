@@ -12,7 +12,7 @@ public class IgpayAtinlay {
 	public static void main(String[] args) {
 		String[] tokens = inputYay.nextLine().split(" ");
 		String[] pigLatinTokens = new String[tokens.length];
-		for (int ii = 0; ii <= tokens.length; ii++)
+		for (int ii = 0; ii < tokens.length; ii++)
 			pigLatinTokens[ii] = ansformTray(tokens[ii]);
 		System.out.println(Arrays.toString(pigLatinTokens));
 	}
