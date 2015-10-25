@@ -2,7 +2,7 @@ package pigLatin;
 
 import java.util.*;
 
-public class IgpayAtinlay {
+public class Calman_David_PigLatin {
 	public static Scanner inputYay = new Scanner(System.in);
 
 	public static enum OnsonantCay {

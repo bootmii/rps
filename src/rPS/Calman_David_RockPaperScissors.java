@@ -1,3 +1,6 @@
+//David Calman
+//APCS, Period 1
+//2015-10-25
 package rPS;
 
 import java.util.*;
